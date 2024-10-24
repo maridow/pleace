@@ -31,4 +31,3 @@ google-services.json
 
 # Android Profiling
 *.hprof
-command 'lshal debug -E android.hardware.audio.effect@6.0::IEffectsFactory/default
